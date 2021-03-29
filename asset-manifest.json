@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mockshop/static/css/main.fd410fe3.chunk.css",
+    "main.js": "/Mockshop/static/js/main.b47e7593.chunk.js",
+    "main.js.map": "/Mockshop/static/js/main.b47e7593.chunk.js.map",
+    "runtime-main.js": "/Mockshop/static/js/runtime-main.e0abe2eb.js",
+    "runtime-main.js.map": "/Mockshop/static/js/runtime-main.e0abe2eb.js.map",
+    "static/js/2.1430f033.chunk.js": "/Mockshop/static/js/2.1430f033.chunk.js",
+    "static/js/2.1430f033.chunk.js.map": "/Mockshop/static/js/2.1430f033.chunk.js.map",
+    "index.html": "/Mockshop/index.html",
+    "static/css/main.fd410fe3.chunk.css.map": "/Mockshop/static/css/main.fd410fe3.chunk.css.map",
+    "static/js/2.1430f033.chunk.js.LICENSE.txt": "/Mockshop/static/js/2.1430f033.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0abe2eb.js",
+    "static/js/2.1430f033.chunk.js",
+    "static/css/main.fd410fe3.chunk.css",
+    "static/js/main.b47e7593.chunk.js"
+  ]
+}
